@@ -34,7 +34,7 @@ const config: HardhatUserConfig = {
        * steps to simplify the process of verifying your contracts.
        */
       production: {
-        version: "0.8.28",
+        version: "0.8.22",
         settings: {
           optimizer: {
             enabled: true,
